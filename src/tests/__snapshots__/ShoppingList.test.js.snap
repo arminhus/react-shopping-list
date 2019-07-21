@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShoppingList component test should render ShoppingItems when supplied with an items prop 1`] = `<li />`;
+
+exports[`ShoppingList component test should render empty give no items 1`] = `<li />`;
