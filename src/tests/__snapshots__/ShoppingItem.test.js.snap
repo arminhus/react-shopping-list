@@ -10,11 +10,13 @@ exports[`ShoppingItem Component Testing should render empty give no item 1`] = `
     }
   />
   <button
+    onClick={[Function]}
     type="button"
   >
     check
   </button>
   <button
+    onClick={[Function]}
     type="button"
   >
     delete
@@ -34,11 +36,13 @@ exports[`ShoppingItem Component Testing should render the item when supplied 1`]
     test-item
   </h2>
   <button
+    onClick={[Function]}
     type="button"
   >
     check
   </button>
   <button
+    onClick={[Function]}
     type="button"
   >
     delete
@@ -58,11 +62,13 @@ exports[`ShoppingItem Component Testing should strike through checked items 1`] 
     check-item
   </h2>
   <button
+    onClick={[Function]}
     type="button"
   >
     check
   </button>
   <button
+    onClick={[Function]}
     type="button"
   >
     delete
